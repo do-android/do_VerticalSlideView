@@ -1,0 +1,10 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_VerticalSlideView/do_VerticalSlideView.zip
+/doExt_do_VerticalSlideView/do_build.xml
+/doExt_do_VerticalSlideView/libs/docore.jar
